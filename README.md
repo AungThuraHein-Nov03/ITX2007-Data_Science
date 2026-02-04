@@ -146,6 +146,25 @@ This repository contains all assignments and datasets for the **ITX2007 Data Sci
 
 ---
 
+### Lecture 9: Machine Learning with Scikit-learn
+**Topics:** Intro to Machine Learning, KNN, Linear Regression, Model Evaluation Basics, Handle missing data, Pipelines
+
+- **Datasets:**
+  - `sales_df.csv` - Advertising Expenditure across media types
+  - `music_unclean.csv` - Audio features
+  - `churn_df.csv` - Customer data
+
+**Skills Covered:**
+- Supervised learning basics
+- K-Nearest Neighbors (KNN)
+- Linear Regression (Simple, Multiple)
+- Model Evaluations
+- Cross Validation
+- Handling Missing Data
+- Pipelining
+
+---
+
 ## Technology Stack
 
 - **Language:** Python 3
