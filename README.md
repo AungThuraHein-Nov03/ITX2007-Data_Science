@@ -2,7 +2,7 @@
 
 This repository contains all assignments and datasets for the **ITX2007 Data Science** course at Assumption University of Thailand. The course covers fundamental to intermediate data science concepts using Python and Jupyter Notebooks.
 
-**Lecturer:** Dr. Thanachai Thumthawatworn
+**Lecturer:** Dr. Thanachai Thumthawatworn/ Dr. Mana Tanachan
 
 **Student:** Aung Thura Hein (or) Austin
 
