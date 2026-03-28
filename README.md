@@ -276,6 +276,21 @@ This repository contains all assignments and datasets for the **ITX2007 Data Sci
 
 ---
 
+### Final Practice
+**Topics:** Comprehensive review and practice of key course concepts
+
+This folder contains practice notebooks for exam preparation, covering:
+- **Chapter 7:** Statistics practice problems
+- **Chapter 8:** Regression analysis exercises
+- **Chapter 9:** Machine Learning with Scikit-learn review
+- **Chapter 10:** Advanced ML techniques and model evaluation
+- **Chapter 11:** Classification and credit card approval prediction
+- **Chapter 12:** Unsupervised learning and clustering
+
+**Purpose:** Reinforce understanding of all major topics covered in Lectures 7-12 through hands-on practice exercises.
+
+---
+
 ## Technology Stack
 
 - **Language:** Python 3
